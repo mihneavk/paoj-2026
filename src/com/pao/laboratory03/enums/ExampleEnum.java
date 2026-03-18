@@ -72,10 +72,18 @@ public class ExampleEnum {
         // switch pe enum
         System.out.println("\nSwitch:");
         switch (current) {
-            case SPRING: System.out.println("🌸 Primăvară!"); break;
-            case SUMMER: System.out.println("☀️ Vară!"); break;
-            case AUTUMN: System.out.println("🍂 Toamnă!"); break;
-            case WINTER: System.out.println("❄️ Iarnă!"); break;
+            case SPRING:
+                System.out.println("🌸 Primăvară!");
+                break;
+            case SUMMER:
+                System.out.println("☀️ Vară!");
+                break;
+            case AUTUMN:
+                System.out.println("🍂 Toamnă!");
+                break;
+            case WINTER:
+                System.out.println("❄️ Iarnă!");
+                break;
         }
 
         // === Enum cu câmpuri și metodă abstractă ===
