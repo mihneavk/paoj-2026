@@ -1,0 +1,45 @@
+1
+Sala Palatului, Bucuresti
+2
+1
+Arenele Romane, Bucuresti
+5
+2
+1
+Radu Ionescu
+radu@mail.com
+true
+2
+2
+Global Events
+contact@global.com
+Global Records SRL
+3
+contact@global.com
+500
+Stand-up Comedy
+120.5
+3
+contact@global.com
+501
+Concert Rock
+250.0
+4
+6
+500
+7
+radu@mail.com
+500
+7
+radu@mail.com
+500
+6
+500
+8
+radu@mail.com
+5
+501
+9
+501
+10
+0
