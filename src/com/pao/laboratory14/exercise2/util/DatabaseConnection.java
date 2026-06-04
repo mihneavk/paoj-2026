@@ -20,7 +20,7 @@ public class DatabaseConnection {
 
     private DatabaseConnection() throws IOException, SQLException {
         Properties props = new Properties();
-        try (InputStream is = getClass().getClassLoader().getResourceAsStream("db.properties")) {
+        try (InputStream is = getClass().getClassLoader().getResourceAsStream("com/pao/laboratory14/exercise2/resources/db.properties")) {
             if (is == null) {
                 throw new IOException(
                     "db.properties nu a fost gasit pe classpath. " +
